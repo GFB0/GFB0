@@ -1,15 +1,15 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1+%F0%9F%91%8B%2C+sou+Guilherme+Barreto" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Ol%C3%A1+%F0%9F%91%8B%2C+sou+Guilherme+Barreto" alt="Typing Animation" />
   </a>
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End;Apaixonado+por+tecnologia;Sempre+buscando+evoluir!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End;Apaixonado+por+tecnologia;Sempre+buscando+evoluir!">
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gfb0&label=Profile%20views&color=0e75b6&style=flat" alt="gfb0" />
+  <img src="https://komarev.com/ghpvc/?username=gfb0&label=Profile%20views&color=70a5fd&style=flat" alt="gfb0" />
 </p>
 
 ---
