@@ -33,12 +33,12 @@
 
 #### 📌 Back-End:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,kotlin,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,php,laravel,kotlin,java,c,cpp" />
 </p>
 
 #### 📌 Front-End:
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,react,bootstrap" />
 </p>
 
 #### 📌 Banco de Dados:
